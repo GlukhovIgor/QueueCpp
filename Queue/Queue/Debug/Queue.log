@@ -1,0 +1,3 @@
+﻿  Queue.cpp
+d:\study\программирование\queue\queue\queue\queue.cpp(35): warning C4715: queue::dequeue: значение возвращается не при всех путях выполнения
+  Queue.vcxproj -> D:\Study\Программирование\Queue\Queue\Debug\Queue.exe
